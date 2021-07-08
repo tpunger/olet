@@ -1,0 +1,1 @@
+$$\overline{f}=\frac{1}{n}\sum_{j=0}^{N-1}f(j)n_j^t$$
